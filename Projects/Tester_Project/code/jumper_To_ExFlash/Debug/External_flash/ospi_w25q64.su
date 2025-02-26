@@ -1,0 +1,15 @@
+../External_flash/ospi_w25q64.c:44:6:OSPI_PinInit	72	static
+../External_flash/ospi_w25q64.c:108:6:OCTOSPI1_Init	32	static
+../External_flash/ospi_w25q64.c:152:8:OSPI_W25Qxx_Init	16	static
+../External_flash/ospi_w25q64.c:181:8:OSPI_W25Qxx_AutoPollingMemReady	112	static
+../External_flash/ospi_w25q64.c:235:10:OSPI_W25Qxx_ReadID	96	static
+../External_flash/ospi_w25q64.c:278:8:OSPI_W25Qxx_MemoryMappedMode	96	static
+../External_flash/ospi_w25q64.c:329:8:OSPI_W25Qxx_WriteEnable	112	static
+../External_flash/ospi_w25q64.c:413:8:OSPI_W25Qxx_SectorErase	96	static
+../External_flash/ospi_w25q64.c:471:8:OSPI_W25Qxx_BlockErase_32K	96	static
+../External_flash/ospi_w25q64.c:529:8:OSPI_W25Qxx_BlockErase_64K	96	static
+../External_flash/ospi_w25q64.c:586:8:OSPI_W25Qxx_ChipErase	112	static
+../External_flash/ospi_w25q64.c:667:8:OSPI_W25Qxx_WritePage	104	static
+../External_flash/ospi_w25q64.c:742:8:OSPI_W25Qxx_WriteBuffer	40	static
+../External_flash/ospi_w25q64.c:800:8:OSPI_W25Qxx_ReadBuffer	104	static
+../External_flash/ospi_w25q64.c:850:8:OSPI_W25Qxx_Test	88	static

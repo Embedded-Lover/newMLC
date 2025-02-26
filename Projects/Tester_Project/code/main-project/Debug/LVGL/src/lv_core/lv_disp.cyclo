@@ -1,0 +1,13 @@
+../LVGL/src/lv_core/lv_disp.c:49:12:lv_disp_get_scr_act	3
+../LVGL/src/lv_core/lv_disp.c:66:12:lv_disp_get_scr_prev	3
+../LVGL/src/lv_core/lv_disp.c:81:6:lv_disp_load_scr	2
+../LVGL/src/lv_core/lv_disp.c:95:12:lv_disp_get_layer_top	3
+../LVGL/src/lv_core/lv_disp.c:112:12:lv_disp_get_layer_sys	3
+../LVGL/src/lv_core/lv_disp.c:128:6:lv_disp_assign_screen	3
+../LVGL/src/lv_core/lv_disp.c:147:6:lv_disp_set_bg_color	3
+../LVGL/src/lv_core/lv_disp.c:168:6:lv_disp_set_bg_image	3
+../LVGL/src/lv_core/lv_disp.c:189:6:lv_disp_set_bg_opa	3
+../LVGL/src/lv_core/lv_disp.c:331:10:lv_disp_get_inactive_time	3
+../LVGL/src/lv_core/lv_disp.c:351:6:lv_disp_trig_activity	3
+../LVGL/src/lv_core/lv_disp.c:366:6:lv_disp_clean_dcache	4
+../LVGL/src/lv_core/lv_disp.c:384:13:_lv_disp_get_refr_task	3

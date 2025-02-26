@@ -1,0 +1,6 @@
+../GUI/../LVGL/src/lv_hal/../lv_misc/lv_color.h:655:26:lv_color_hex	1
+../GUI/mainScreen.c:103:13:settingBtnEvent	1
+../GUI/mainScreen.c:92:13:homeBtnEvent	2
+../GUI/mainScreen.c:112:13:usbBtnEvent	1
+../GUI/mainScreen.c:21:6:createMainScreen	1
+../GUI/mainScreen.c:121:14:getMainScreen	1

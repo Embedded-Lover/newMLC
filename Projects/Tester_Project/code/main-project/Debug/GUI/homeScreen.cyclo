@@ -1,0 +1,6 @@
+../GUI/../LVGL/src/lv_hal/../lv_misc/lv_color.h:655:26:lv_color_hex	1
+../GUI/homeScreen.c:109:13:selectDigitalInTestEvent	1
+../GUI/homeScreen.c:100:13:selectAnalogTestEvent	2
+../GUI/homeScreen.c:117:13:selectDigitalOutTestEvent	1
+../GUI/homeScreen.c:28:6:createHomeScreen	1
+../GUI/homeScreen.c:125:14:getHomeScreen	1

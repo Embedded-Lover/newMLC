@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../../ui/main.qml</file>
+        <file alias="HomePage.qml">../../ui/HomePage.qml</file>
+        <file alias="LoggViewPage.qml">../../ui/LoggViewPage.qml</file>
+        <file alias="MenuButton.qml">../../ui/MenuButton.qml</file>
+        <file alias="SettingPage.qml">../../ui/SettingPage.qml</file>
+    </qresource>
+</RCC>

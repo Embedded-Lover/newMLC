@@ -1,0 +1,14 @@
+../Drivers/CMSIS/Include/core_cm7.h:2156:34:__NVIC_SystemReset	1
+../Core/Src/main.c:127:5:main	8
+../Core/Src/main.c:255:6:SystemClock_Config	4
+../Core/Src/main.c:320:6:RTC_Init	5
+../Core/Src/main.c:399:6:HAL_FDCAN_RxFifo0Callback	5
+../Core/Src/main.c:431:6:HAL_FDCAN_ErrorStatusCallback	1
+../Core/Src/main.c:437:6:HAL_RTC_AlarmAEventCallback	1
+../Core/Src/main.c:442:6:PVD_PVM_IRQHandler	1
+../Core/Src/main.c:447:6:HAL_PWR_PVDCallback	1
+../Core/Src/main.c:452:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:473:6:logCreate	7
+../Core/Src/main.c:523:6:saveFile	3
+../Core/Src/main.c:546:6:HAL_UART_RxCpltCallback	1
+../Core/Src/main.c:560:6:Error_Handler	1

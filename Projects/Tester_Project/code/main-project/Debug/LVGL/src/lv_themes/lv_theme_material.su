@@ -1,0 +1,6 @@
+../LVGL/src/lv_themes/../../src/lv_hal/../lv_misc/lv_color.h:462:48:lv_color_mix	20	static
+../LVGL/src/lv_themes/../../src/lv_hal/../lv_misc/lv_color.h:660:26:lv_color_hex3	8	static
+../LVGL/src/lv_themes/lv_theme_material.c:959:13:theme_apply	16	static
+../LVGL/src/lv_themes/lv_theme_material.c:1392:13:style_init_reset	0	static
+../LVGL/src/lv_themes/../../src/lv_hal/../lv_misc/lv_color.h:655:26:lv_color_hex	0	static
+../LVGL/src/lv_themes/lv_theme_material.c:894:14:lv_theme_material_init	40	static

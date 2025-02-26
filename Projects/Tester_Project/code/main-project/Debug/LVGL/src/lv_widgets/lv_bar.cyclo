@@ -1,0 +1,16 @@
+../LVGL/src/lv_widgets/../lv_core/../lv_font/../lv_misc/lv_area.h:110:26:lv_area_get_width	1
+../LVGL/src/lv_widgets/../lv_core/../lv_font/../lv_misc/lv_area.h:120:26:lv_area_get_height	1
+../LVGL/src/lv_widgets/lv_bar.c:647:17:lv_bar_signal	8
+../LVGL/src/lv_widgets/lv_bar.c:373:24:lv_bar_design	26
+../LVGL/src/lv_widgets/lv_bar.c:153:6:lv_bar_set_value	3
+../LVGL/src/lv_widgets/lv_bar.c:76:12:lv_bar_create	6
+../LVGL/src/lv_widgets/lv_bar.c:182:6:lv_bar_set_start_value	3
+../LVGL/src/lv_widgets/lv_bar.c:238:6:lv_bar_set_type	2
+../LVGL/src/lv_widgets/lv_bar.c:255:6:lv_bar_set_anim_time	1
+../LVGL/src/lv_widgets/lv_bar.c:277:9:lv_bar_get_value	1
+../LVGL/src/lv_widgets/lv_bar.c:290:9:lv_bar_get_start_value	2
+../LVGL/src/lv_widgets/lv_bar.c:306:9:lv_bar_get_min_value	1
+../LVGL/src/lv_widgets/lv_bar.c:319:9:lv_bar_get_max_value	1
+../LVGL/src/lv_widgets/lv_bar.c:332:15:lv_bar_get_type	1
+../LVGL/src/lv_widgets/lv_bar.c:209:6:lv_bar_set_range	6
+../LVGL/src/lv_widgets/lv_bar.c:345:10:lv_bar_get_anim_time	1

@@ -1,0 +1,7 @@
+../LVGL/src/lv_widgets/lv_slider.c:498:13:lv_slider_position_knob	2
+../LVGL/src/lv_widgets/../lv_core/../lv_font/../lv_misc/lv_area.h:100:20:lv_area_copy	2
+../LVGL/src/lv_widgets/lv_slider.c:161:24:lv_slider_design	18
+../LVGL/src/lv_widgets/lv_slider.c:247:17:lv_slider_signal	40
+../LVGL/src/lv_widgets/lv_slider.c:61:12:lv_slider_create	6
+../LVGL/src/lv_widgets/lv_slider.c:128:9:lv_slider_get_value	1
+../LVGL/src/lv_widgets/lv_slider.c:139:6:lv_slider_is_dragged	1

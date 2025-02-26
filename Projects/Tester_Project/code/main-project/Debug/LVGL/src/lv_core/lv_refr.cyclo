@@ -1,0 +1,12 @@
+../LVGL/src/lv_core/lv_refr.c:752:13:lv_refr_vdb_flush	10
+../LVGL/src/lv_core/lv_refr.c:591:19:lv_refr_get_top_obj	7
+../LVGL/src/lv_core/lv_refr.c:676:13:lv_refr_obj	8
+../LVGL/src/lv_core/lv_refr.c:632:13:lv_refr_obj_and_children	6
+../LVGL/src/lv_core/lv_refr.c:503:13:lv_refr_area_part	13
+../LVGL/src/lv_core/../lv_font/../lv_misc/lv_area.h:100:20:lv_area_copy	2
+../LVGL/src/lv_core/lv_refr.c:73:6:_lv_refr_init	1
+../LVGL/src/lv_core/lv_refr.c:110:6:_lv_inv_area	9
+../LVGL/src/lv_core/lv_refr.c:159:13:_lv_refr_get_disp_refreshing	1
+../LVGL/src/lv_core/lv_refr.c:170:6:_lv_refr_set_disp_refreshing	1
+../LVGL/src/lv_core/lv_refr.c:179:6:_lv_disp_refr_task	34
+../LVGL/src/lv_core/lv_refr.c:85:6:lv_refr_now	3

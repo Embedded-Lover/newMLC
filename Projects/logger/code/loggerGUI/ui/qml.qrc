@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomePage.qml</file>
+        <file>LoggViewPage.qml</file>
+        <file>MenuButton.qml</file>
+        <file>SettingPage.qml</file>
+    </qresource>
+</RCC>

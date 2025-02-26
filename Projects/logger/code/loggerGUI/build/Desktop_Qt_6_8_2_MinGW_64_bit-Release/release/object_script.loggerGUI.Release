@@ -1,0 +1,13 @@
+release/main.o
+release/backendcore.o
+release/usbconnection.o
+release/ui_LoggViewPage_qml.o
+release/ui_HomePage_qml.o
+release/ui_SettingPage_qml.o
+release/ui_MenuButton_qml.o
+release/ui_main_qml.o
+release/qmlcache_loader.o
+release/qrc_ui_qml_qmlcache.o
+release/qrc_qmake_qmake_immediate.o
+release/moc_backendcore.o
+release/moc_usbconnection.o

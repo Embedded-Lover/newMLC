@@ -1,0 +1,6 @@
+../LVGL/src/lv_misc/lv_math.c:53:31:_lv_trigo_sin	5
+../LVGL/src/lv_misc/lv_math.c:88:9:_lv_bezier3	1
+../LVGL/src/lv_misc/lv_math.c:114:28:_lv_sqrt	2
+../LVGL/src/lv_misc/lv_math.c:137:10:_lv_atan2	15
+../LVGL/src/lv_misc/lv_math.c:221:9:_lv_pow	3
+../LVGL/src/lv_misc/lv_math.c:243:9:_lv_map	3

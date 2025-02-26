@@ -1,0 +1,13 @@
+debug/main.o
+debug/backendcore.o
+debug/usbconnection.o
+debug/ui_LoggViewPage_qml.o
+debug/ui_HomePage_qml.o
+debug/ui_SettingPage_qml.o
+debug/ui_MenuButton_qml.o
+debug/ui_main_qml.o
+debug/qmlcache_loader.o
+debug/qrc_ui_qml_qmlcache.o
+debug/qrc_qmake_qmake_immediate.o
+debug/moc_backendcore.o
+debug/moc_usbconnection.o

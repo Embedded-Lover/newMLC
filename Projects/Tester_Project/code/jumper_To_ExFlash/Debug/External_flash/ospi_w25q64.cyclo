@@ -1,0 +1,15 @@
+../External_flash/ospi_w25q64.c:44:6:OSPI_PinInit	2
+../External_flash/ospi_w25q64.c:108:6:OCTOSPI1_Init	1
+../External_flash/ospi_w25q64.c:152:8:OSPI_W25Qxx_Init	2
+../External_flash/ospi_w25q64.c:181:8:OSPI_W25Qxx_AutoPollingMemReady	3
+../External_flash/ospi_w25q64.c:235:10:OSPI_W25Qxx_ReadID	1
+../External_flash/ospi_w25q64.c:278:8:OSPI_W25Qxx_MemoryMappedMode	3
+../External_flash/ospi_w25q64.c:329:8:OSPI_W25Qxx_WriteEnable	4
+../External_flash/ospi_w25q64.c:413:8:OSPI_W25Qxx_SectorErase	4
+../External_flash/ospi_w25q64.c:471:8:OSPI_W25Qxx_BlockErase_32K	4
+../External_flash/ospi_w25q64.c:529:8:OSPI_W25Qxx_BlockErase_64K	4
+../External_flash/ospi_w25q64.c:586:8:OSPI_W25Qxx_ChipErase	5
+../External_flash/ospi_w25q64.c:667:8:OSPI_W25Qxx_WritePage	5
+../External_flash/ospi_w25q64.c:742:8:OSPI_W25Qxx_WriteBuffer	5
+../External_flash/ospi_w25q64.c:800:8:OSPI_W25Qxx_ReadBuffer	4
+../External_flash/ospi_w25q64.c:850:8:OSPI_W25Qxx_Test	3

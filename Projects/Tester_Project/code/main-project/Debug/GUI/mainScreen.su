@@ -1,0 +1,6 @@
+../GUI/../LVGL/src/lv_hal/../lv_misc/lv_color.h:655:26:lv_color_hex	0	static
+../GUI/mainScreen.c:103:13:settingBtnEvent	0	static
+../GUI/mainScreen.c:92:13:homeBtnEvent	8	static
+../GUI/mainScreen.c:112:13:usbBtnEvent	0	static
+../GUI/mainScreen.c:21:6:createMainScreen	48	static
+../GUI/mainScreen.c:121:14:getMainScreen	16	static

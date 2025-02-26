@@ -1,0 +1,9 @@
+../GUI/../LVGL/src/lv_hal/../lv_misc/lv_color.h:655:26:lv_color_hex	1
+../GUI/analogScreen.c:412:13:startEvent	2
+../GUI/analogScreen.c:421:13:stopEvent	2
+../GUI/analogScreen.c:463:13:setPointConfirmEvent	2
+../GUI/analogScreen.c:439:13:spinLeftEvent	2
+../GUI/analogScreen.c:430:13:spinRightEvent	2
+../GUI/analogScreen.c:448:13:IDconfirmEvent	2
+../GUI/analogScreen.c:46:6:createAnalogScreen	1
+../GUI/analogScreen.c:473:16:getAnalogScreen	1

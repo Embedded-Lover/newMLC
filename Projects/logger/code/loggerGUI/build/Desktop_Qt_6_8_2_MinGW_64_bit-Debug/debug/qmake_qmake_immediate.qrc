@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="home.png">E:/newMLC/Projects/logger/code/loggerGUI/ui/home.png</file>
+<file alias="setting.png">E:/newMLC/Projects/logger/code/loggerGUI/ui/setting.png</file>
+</qresource>
+</RCC>

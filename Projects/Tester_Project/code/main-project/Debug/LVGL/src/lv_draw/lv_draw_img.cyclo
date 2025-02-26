@@ -1,0 +1,9 @@
+../LVGL/src/lv_draw/lv_draw_img.c:640:13:show_error	1
+../LVGL/src/lv_draw/../lv_misc/lv_area.h:100:20:lv_area_copy	2
+../LVGL/src/lv_draw/lv_draw_img.c:333:35:lv_draw_map	38
+../LVGL/src/lv_draw/lv_draw_img.c:56:6:lv_draw_img_dsc_init	1
+../LVGL/src/lv_draw/lv_draw_img.c:98:9:lv_img_cf_get_px_size	2
+../LVGL/src/lv_draw/lv_draw_img.c:143:6:lv_img_cf_is_chroma_keyed	2
+../LVGL/src/lv_draw/lv_draw_img.c:170:6:lv_img_cf_has_alpha	2
+../LVGL/src/lv_draw/lv_draw_img.c:73:6:lv_draw_img	13
+../LVGL/src/lv_draw/lv_draw_img.c:203:14:lv_img_src_get_type	3

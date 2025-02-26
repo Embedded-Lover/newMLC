@@ -1,0 +1,2 @@
+../LVGL/src/lv_draw/lv_draw_arc.c:389:13:get_rounded_area	32	static
+../LVGL/src/lv_draw/lv_draw_arc.c:71:6:lv_draw_arc	312	static

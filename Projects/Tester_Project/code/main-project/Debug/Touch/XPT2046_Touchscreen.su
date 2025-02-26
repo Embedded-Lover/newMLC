@@ -1,0 +1,10 @@
+../Touch/XPT2046_Touchscreen.c:13:6:setScreenSize	0	static
+../Touch/XPT2046_Touchscreen.c:19:6:setRotation	0	static
+../Touch/XPT2046_Touchscreen.c:24:6:setOffset	0	static
+../Touch/XPT2046_Touchscreen.c:30:6:setThreshold	0	static
+../Touch/XPT2046_Touchscreen.c:59:6:getTouchFlag	0	static
+../Touch/XPT2046_Touchscreen.c:120:6:transfer	16	static
+../Touch/XPT2046_Touchscreen.c:125:10:transferReceive	32	static
+../Touch/XPT2046_Touchscreen.c:49:6:isTouched	16	static
+../Touch/XPT2046_Touchscreen.c:64:6:getPoint	16	static
+../Touch/XPT2046_Touchscreen.c:35:10:touchUpdate	16	static

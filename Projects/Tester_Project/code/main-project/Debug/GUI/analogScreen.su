@@ -1,0 +1,9 @@
+../GUI/../LVGL/src/lv_hal/../lv_misc/lv_color.h:655:26:lv_color_hex	0	static
+../GUI/analogScreen.c:412:13:startEvent	0	static
+../GUI/analogScreen.c:421:13:stopEvent	0	static
+../GUI/analogScreen.c:463:13:setPointConfirmEvent	16	static
+../GUI/analogScreen.c:439:13:spinLeftEvent	0	static
+../GUI/analogScreen.c:430:13:spinRightEvent	0	static
+../GUI/analogScreen.c:448:13:IDconfirmEvent	24	static
+../GUI/analogScreen.c:46:6:createAnalogScreen	88	static
+../GUI/analogScreen.c:473:16:getAnalogScreen	16	static
