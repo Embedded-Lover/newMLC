@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tester supply")(type "KiCad")(uri "${KIPRJMOD}/tester supply.kicad_sym")(options "")(descr ""))
+)

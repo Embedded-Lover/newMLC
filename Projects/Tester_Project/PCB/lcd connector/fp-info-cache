@@ -1,0 +1,372 @@
+90613617460640
+MLC_K7
+1x2InchPackage
+
+
+0
+6
+6
+MLC_K7
+4p header reverse
+Through hole straight pin header, 2x02, 2.54mm pitch, double rows
+Through hole pin header THT 2x02 2.54mm double row
+0
+4
+4
+MLC_K7
+6U RIOM Card
+
+
+0
+0
+0
+MLC_K7
+09061482901
+09061482901-3
+Connector
+0
+50
+50
+MLC_K7
+CF_CARD
+N7E50-M516RB-40-4
+Connector
+0
+54
+54
+MLC_K7
+CP_solid_220u-50
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+MLC_K7
+CP_sollid_47u-100
+CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor
+0
+2
+2
+MLC_K7
+DB9-Female_Right_Without_M.H
+
+
+0
+11
+11
+MLC_K7
+DWV8_TEX-M
+
+AMC1200BDWVR 
+0
+8
+8
+MLC_K7
+D_DO-41_SOD81_P7.62mm_Horizontal
+Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+MLC_K7
+EC4AW DC.DC
+
+
+0
+10
+10
+MLC_K7
+EXB840
+
+
+0
+13
+13
+MLC_K7
+FIL_BNX003-11
+
+
+0
+6
+6
+MLC_K7
+FOXCONN_AS0A626-U2SN-7F
+
+
+0
+206
+206
+MLC_K7
+FPC-40way_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-40S-0.5SH, 40 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+42
+41
+MLC_K7
+HD63140
+64-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+64
+64
+MLC_K7
+Heatalum-Hs53 for 6U
+
+
+0
+0
+0
+MLC_K7
+IC_LM5156HPWPR
+
+
+0
+30
+15
+MLC_K7
+IDC-Header_2x15-1MP_P2.54mm_Latch_Vertical
+Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
+Through hole vertical IDC header THT 2x15 2.54mm double row
+0
+32
+31
+MLC_K7
+IND_SLF7045T-100M1R3-PF
+
+
+0
+2
+2
+MLC_K7
+LED_3mm_Dual
+
+
+0
+4
+4
+MLC_K7
+LED_3mm_Dual_edited
+
+
+0
+4
+4
+MLC_K7
+Label2
+
+
+0
+0
+0
+MLC_K7
+MC68020RP
+Support PGA 120 pins
+PGA
+0
+114
+114
+MLC_K7
+MIWI10
+
+
+0
+9
+9
+MLC_K7
+MJWI25
+
+
+0
+6
+6
+MLC_K7
+PWBxxxx-6W
+
+
+0
+7
+7
+MLC_K7
+PinHeader_2x02_P2.54mm_Vertical-reverse
+Through hole straight pin header, 2x02, 2.54mm pitch, double rows
+Through hole pin header THT 2x02 2.54mm double row
+0
+4
+4
+MLC_K7
+PinHeader_2x05_P2.54mm_Vertical-reverse
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+10
+10
+MLC_K7
+PinHeader_2x15_P2.54mm_Vertical-reverse
+Through hole straight pin header, 2x15, 2.54mm pitch, double rows
+Through hole pin header THT 2x15 2.54mm double row
+0
+30
+30
+MLC_K7
+PinHeader_2x20_P2.54mm_Vertical-reverse
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+MLC_K7
+QuarterBrick_highVoltage
+Case pad omitted
+
+0
+9
+9
+MLC_K7
+RB101
+
+
+0
+8
+3
+MLC_K7
+SK 459 25 STS
+
+
+0
+4
+2
+MLC_K7
+SO-16_5.3x10.2mm_P1.27mm
+SO, 16 Pin (https://www.ti.com/lit/ml/msop002a/msop002a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
+0
+16
+16
+MLC_K7
+SOD3716X135N
+
+
+0
+2
+2
+MLC_K7
+SOIC-8_5.23x5.23mm_P1.27mm
+SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+MLC_K7
+SOJ-36_10.16x23.49mm_P1.27mm
+SOJ, 36 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOJ SO
+0
+36
+36
+MLC_K7
+SOJ32-4
+<b>Small Outline J-Bend</b>
+
+0
+32
+32
+MLC_K7
+SOP65P642X120-8N
+TSSOP8 0079397 (Jedec MO-153-AA) (Body 4.4mm)
+Integrated Circuit
+0
+8
+8
+MLC_K7
+SW_DHA-04TQR
+
+
+0
+8
+8
+MLC_K7
+TO-3P-3_Horizontal_TabDown
+TO-3P-3, Horizontal, RM 5.45mm, , see https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.TO-3P(N).html
+TO-3P-3 Horizontal RM 5.45mm 
+0
+3
+3
+MLC_K7
+TO-220-3_Vertical
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+MLC_K7
+TQFP128
+
+
+0
+128
+128
+MLC_K7
+USB_A_Molex_105057_Vertical
+https://www.molex.com/pdm_docs/sd/1050570001_sd.pdf
+USB A Vertical
+0
+7
+5
+MLC_K7
+fuse.holder.1808-1
+
+
+0
+2
+2
+MLC_K7
+logo_giraffe
+
+
+0
+0
+0
+MLC_K7
+manchester5mmHeight
+
+
+0
+0
+0
+MLC_K7
+mounting hole
+
+
+0
+1
+1
+MLC_K7
+nightingaleLogo
+
+
+0
+0
+0
+MLC_K7
+owl logo
+
+
+0
+0
+0
+MLC_K7
+qfp14l
+LQFP64: plastic low profile quad flat package; 64 leads; body 14 x 14 x 1.4 mm(see NXP sot791-1_po.pdf and sot791-1_fr.pdf)
+QFP 0.8
+0
+64
+64
+MLC_K7
+shark logo
+
+
+0
+0
+0
