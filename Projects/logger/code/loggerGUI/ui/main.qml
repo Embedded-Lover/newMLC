@@ -18,60 +18,75 @@ ApplicationWindow {
 
     }
 
-    TabBar {
-        id: bar
+
+    Row {
         anchors.fill: parent
+        spacing: 1
 
-        MenuButton{
-            id: home
-            width: 170
-            height: 50
-            anchors.top: parent.top
-            imageSource: "home.png"
-            name: "HOME"
-        }
+        TabBar {
+            id: bar
 
-        MenuButton{
-            id: loggView
-            height: home.height
-            anchors{
-                top: home.bottom
-                right: home.right
-                left: home.left
-                topMargin: 2
+            width: 200
+            height: parent.height
+
+            background: Rectangle {
+                color: "#f4d37c"
             }
-            //imageSource: "view.png"
-            name: "Logg View"
+
+            MenuButton{
+                id: home
+                width: 180
+                height: 50
+                anchors.top: bar.top
+                imageSource: "home.png"
+                name: "HOME"
+            }
+
+            MenuButton{
+                id: loggView
+                height: home.height
+                anchors{
+                    top: home.bottom
+                    right: home.right
+                    left: home.left
+                    topMargin: 2
+                }
+                //imageSource: "view.png"
+                name: "Logg View"
+            }
+
+            MenuButton{
+                id: setting
+                height: home.height
+                width: home.width
+                anchors.top: loggView.bottom
+                anchors.left: loggView.left
+                anchors.topMargin: 2
+                imageSource: "setting.png"
+                name: "Setting"
+            }
         }
 
-        MenuButton{
-            id: setting
-            height: home.height
-            width: home.width
-            anchors.top: loggView.bottom
-            anchors.left: loggView.left
-            anchors.topMargin: 2
-            imageSource: "setting.png"
-            name: "Setting"
+
+        StackLayout {
+
+            width: 800
+            height: parent.height
+
+            currentIndex: bar.currentIndex
+
+            Item {
+            }
+
+            LoggViewPage{
+            }
+
+            SettingPage{
+            }
         }
+
     }
 
-
-    StackLayout {
-        anchors.fill: bar
-        anchors.leftMargin: 180
-
-        currentIndex: bar.currentIndex
-
-        Item {
-        }
-
-        LoggViewPage{
-        }
-
-        SettingPage{
-        }
-    }
 }
 
 
