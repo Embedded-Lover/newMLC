@@ -94,5 +94,20 @@ Item{
             border.width: 2
         }
     }
+
+    Connections {
+        target: appCore
+        function onLiveModeDeviceApplied() {
+            liveModeButton.background.color = "Green"
+        }
+
+        function onLogReceived(logString)
+        {
+            serialDispaly.color = "Green"
+            serialDispaly.text += "Received Data:\r\n"
+            serialDispaly.color = "Red"
+            serialDispaly.text += logString
+        }
+    }
 }
 

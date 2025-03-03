@@ -34,10 +34,12 @@ ApplicationWindow {
         MenuButton{
             id: loggView
             height: home.height
-            width: home.width
-            anchors.top: home.bottom
-            anchors.left: home.left
-            anchors.topMargin: 2
+            anchors{
+                top: home.bottom
+                right: home.right
+                left: home.left
+                topMargin: 2
+            }
             //imageSource: "view.png"
             name: "Logg View"
         }
@@ -70,22 +72,6 @@ ApplicationWindow {
         SettingPage{
         }
     }
-
-    Connections {
-        target: appCore
-        function onLiveModeDeviceApplied() {
-            liveModeButton.background.color = "Green"
-        }
-
-        function onLogReceived(logString)
-        {
-            serialDispaly.color = "Green"
-            serialDispaly.text += "Received Data:\r\n"
-            serialDispaly.color = "Red"
-            serialDispaly.text += logString
-        }
-    }
-
 }
 
 
